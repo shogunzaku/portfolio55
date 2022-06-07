@@ -37,3 +37,39 @@
     height: 100%;
     object-fit: cover;
 }
+
+.a-award-img{
+    width: 420px;
+    height: 320px;
+    border-radius: 20px;
+}
+
+.a-title{
+    font-weight: 400;
+}
+
+.a-sub{
+    font-weight: 900;
+    margin: 20px 0px;
+}
+
+.a-desc{
+    font-weight: 300;
+}
+
+.a-award{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.a-award-texts{
+  width: 70%;  
+}
+
+.a-award-title{
+    font-weight: bold;
+    color: lightslategray;
+    margin-bottom: 10px;
+}
