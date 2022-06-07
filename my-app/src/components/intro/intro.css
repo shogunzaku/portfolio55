@@ -5,6 +5,9 @@
 
 .i-left{
     flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .i-right{
@@ -13,6 +16,10 @@
 
 .i-left-wrapper{
     padding: 50px;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .i-intro{
@@ -54,7 +61,6 @@ animation: move 10s ease-in-out infinite alternate;
     font-size: 30px;
     font-weight: bold;
     color: red;
-    background-color: white;
     display: flex;
     align-items: center;
     
