@@ -7,11 +7,6 @@ import { useRef } from "react";
 
 const Contact = () => {
     const formRef =useRef()
-
-const handleSubmit = (e)=>{
-    e.preventDefault()
-}
-    
     return (
         <div className="c">
             <div className="c-bg"></div>
@@ -42,7 +37,7 @@ const handleSubmit = (e)=>{
                         <b>Reach out to me with these links!!!</b>Cell, Email, Linkedin and Github are great ways
                         to contact me and see more of my info.
                     </p>
-                    <form ref={formRef} onSubmit={handleSubmit}>
+                    <form ref={formRef}>
                         <input type="text" placeholder="Name" name="user_name" />
                         <input type="text" placeholder="Subject" name="user_subject" />
                         <input type="text" placeholder="Email" name="user_email" />
