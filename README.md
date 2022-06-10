@@ -3,7 +3,7 @@ react portfolio
 
 
 
-![Screenshot (337)](https://user-images.githubusercontent.com/98374162/173132724-c95fac39-2df7-452c-a799-60c3d9d73603.png)
+![Screenshot (338)](https://user-images.githubusercontent.com/98374162/173133189-1fdf35c2-b5e2-4dc6-a174-3172572a6374.png)
 
 ![Screenshot (336)](https://user-images.githubusercontent.com/98374162/173132614-170c7a25-09b6-4017-a1be-6146fa037d6c.png)
 
