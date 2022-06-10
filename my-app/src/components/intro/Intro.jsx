@@ -18,9 +18,9 @@ const Intro = () => {
                         </div>
                     </div>
                     <p className="i-desc">
-                        Highly motivated Full Stack Web Developer with experience in web applications and production support.
+                        {/* Highly motivated Full Stack Web Developer with experience in web applications and production support.
                         Committed to problem solving through proactive resourcefulness and strategic creativity. Team oriented and dedicated to leading with service.
-                        Graduated from the University of Arizona with a Certificate of Completion in Full Stack Web Development in May of 2022.
+                        Graduated from the University of Arizona with a Certificate of Completion in Full Stack Web Development in May of 2022. */}
                     </p>
                 </div>
             </div>

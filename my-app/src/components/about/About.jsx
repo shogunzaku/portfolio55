@@ -17,8 +17,8 @@ const About = () => {
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>
                 <p className="a-sub">
-                    Highly motivated Full Stack Web Developer with experience in web applications and production support.
-                    Committed to problem solving through proactive resourcefulness and strategic creativity.
+                    {/* Highly motivated Full Stack Web Developer with experience in web applications and production support.
+                    Committed to problem solving through proactive resourcefulness and strategic creativity. */}
                 </p>
                 <p className="a-desc">
                     Highly motivated Full Stack Web Developer with experience in web applications and production support.
